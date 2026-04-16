@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="142">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        .card {
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+          font-size: 14px;
+          border: 0px solid #d0d7de;
+          border-radius: 6px;
+          overflow: hidden;
+          width: 278px;
+        }
+        .row {
+          display: flex;
+          align-items: center;
+          padding: 8px 14px;
+          gap: 10px;
+        }
+        .lang {
+          color: #24292f;
+          width: 80px;
+          text-align: right;
+          flex-shrink: 0;
+        }
+        .bar-wrap {
+          flex: 1;
+          background: #666666;
+          border-radius: 4px;
+          height: 22px;
+          overflow: hidden;
+        }
+        .bar {
+          height: 100%;
+          border-radius: 4px;
+          display: flex;
+          align-items: center;
+          padding-left: 8px;
+          white-space: nowrap;
+          color: #ffffff;
+          font-size: 12px;
+          font-weight: 600;
+        }
+        .nativo   { background-color: #be79d4; }
+        .avancado { background-color: #2e7d32; }
+        .intermediario { background-color: #a19f27 ; }
+        .basico   { background-color: #a84032; }
+      </style>
+      <div class="card">
+        <div class="row">
+          <div class="lang">Português</div>
+          <div class="bar-wrap">
+            <div class="bar nativo" style="width:100%">Nativo</div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="lang">Inglês</div>
+          <div class="bar-wrap">
+            <div class="bar avancado" style="width:80%">Avançado (C1)</div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="lang">Espanhol</div>
+          <div class="bar-wrap">
+            <div class="bar basico" style="width:30%">Básico (B2)</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
