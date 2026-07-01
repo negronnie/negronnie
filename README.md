@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucaswponciano@gmail.com)
 
 ### **💻 Desenvolvedor Java JR**
-🎓 _Análise e Desenvolvimento de Sistemas - UNESC_
+🎓 _Análise e Desenvolvimento de Sistemas - UNESC_  | 🎓 _Desenvolvimento Front-End React - SCTEC (SCTI/SENAI)_
 
 Sou um profissional em transição de carreira, saindo do empreendedorismo para uma carreira na tecnologia. Meu foco primário é em **Back-End**, futuramente expandindo para Full-Stack, pois já tive experiênca como Web Designer (HTML, CSS com Bootstrap, Javascript básico) no passado.
 
