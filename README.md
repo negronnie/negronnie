@@ -21,7 +21,9 @@ Também possuo conhecimento na área de produto, por ter trabalhado anteriorment
 
 ## Projetos
 
-Estou desenvolvendo um projeto de estudo que visa facilitar declaração do DASN-Simei para microempreendedores individuais, nele, documento minha evolução como desenvolvedor e mostro a qualidade das minhas soluções.
+Estou participando de forma voluntária do desenvolvimento do aplicativo de gestão de academias e rotinas goMoove ([Acesse clicando aqui](https://gomoove.com.br/), disponível para iOS e Android), onde sob supervisão, resolvo as issues atribuídas à mim, mantendo sempre os padrões e convenções estabelecidas no projeto. Sendo a minha primeira atribuição, cadastro e manutenção de funcionários das academias.  
+
+Além disso estou desenvolvendo um projeto de estudo que visa facilitar declaração do DASN-Simei para microempreendedores individuais, nele, documento minha evolução como desenvolvedor e mostro a qualidade das minhas soluções.
 
 Para Acessar, [Clique Aqui](https://github.com/negronnie/dasnSimei).
 
