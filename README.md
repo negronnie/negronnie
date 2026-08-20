@@ -10,21 +10,29 @@
 ### **💻 Desenvolvedor Java JR**
 🎓 _Análise e Desenvolvimento de Sistemas - UNESC_  | 🎓 _Desenvolvimento Front-End React - SCTEC (SCTI/SENAI)_
 
-Sou um profissional em transição de carreira, saindo do empreendedorismo para uma carreira na tecnologia. Meu foco primário é em **Back-End**, futuramente expandindo para Full-Stack, pois já tive experiênca como Web Designer (HTML, CSS com Bootstrap, Javascript básico) no passado.
+Sou um profissional em transição de carreira, saindo do empreendedorismo para uma carreira na tecnologia. Meu foco primário é em **Back-End**, futuramente expandindo para Full-Stack, pois já tive experiênca como Web Designer no passado.
 
-Estou cursando Análise e Desenvolvimento de Sistemas na UNESC, e também estou fazendo cursos específicos para as tecnologias, tendo concluído cursos de **Java**, **Spring Boot**, **MySQL** (e migrations com **FlyWay**), Testes unitários (com **JUnit** e **Mockito**), **API Rest/Restful** (e documentação de APIs).
+Estou cursando Análise e Desenvolvimento de Sistemas na UNESC, além de um curso de especialização em React no programa SCTEC, em conjunto com SENAI, SCTI e Lab365. Além disso também estou fazendo cursos específicos para as tecnologias que escolhi para ser minha stack principal, tendo concluído cursos de **Java**, **Spring Boot**, **MySQL** (e migrations com **FlyWay**), Testes unitários (com **JUnit** e **Mockito**), API Rest/Restful (e documentação de APIs).
 
 No meu roadmap também consta: **JWT**, **OAuth**, **Angular**, **RabbitMQ**, **Redis** e ferramentas para devops/ci-cd, como **Kubernetes**, **Kafka** e **Jenkins**.
 
 Também possuo conhecimento na área de produto, por ter trabalhado anteriormente como UX-UI Designer na Trier Sistemas e Product Designer Freelancer onde projetei uma aplicação mobile/web para gestão de arenas desportivas, o que me dá uma visão mais ampla do negócio, facilitando minhas decisões como desenvolvedor.
 
+Essa vivência multidisciplinar me capacita a atuar em todas as etapas do ciclo de vida do software: desde o entendimento profundo de requisitos de negócio até a modelagem relacional, testes automatizados e a melhoria contínua dos produtos.
+
 
 ## Projetos
 
+#### goMoove
 Estou participando de forma voluntária do desenvolvimento do aplicativo de gestão de academias e rotinas goMoove ([Acesse clicando aqui](https://gomoove.com.br/), disponível para iOS e Android), onde sob supervisão, resolvo as issues atribuídas à mim, mantendo sempre os padrões e convenções estabelecidas no projeto. Sendo a minha primeira atribuição, cadastro e manutenção de funcionários das academias.  
 
-Além disso estou desenvolvendo um projeto de estudo que visa facilitar declaração do DASN-Simei para microempreendedores individuais, nele, documento minha evolução como desenvolvedor e mostro a qualidade das minhas soluções.
+#### Career Companion
+Além disso estou desenvolvendo um sistema completo para confecção e otimização de currículos com metrificação de candidaturas, integrando APIs de Inteligência Artificial em uma plataforma robusta em Java com Spring Boot, Postgres e Docker.
+A aplicação está sendo hospedada em um conjunto de Containers Docker, através de um tunnel na Cloudflare que passa por um Proxy Reverso.
+Para acessar, [Clique Aqui](https://companion.negronnie.com.br).
 
+#### MeiAjuda!
+Por fim, desenvolvi um projeto de estudo que visa facilitar declaração do DASN-Simei para microempreendedores individuais, nele, documento minha evolução como desenvolvedor e mostro a qualidade das minhas soluções.
 Para Acessar, [Clique Aqui](https://github.com/negronnie/dasnSimei).
 
 
